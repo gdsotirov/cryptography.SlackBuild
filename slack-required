@@ -1,0 +1,3 @@
+glibc-solibs >= 2.23
+openssl >= 1.0.2h | openssl-solibs >= 1.0.2h
+python >= 2.7
