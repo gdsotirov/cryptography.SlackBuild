@@ -1,0 +1,12 @@
+cryptography: Cryptography (Python library exposing cryptographic recipes and primitives)
+cryptography:
+cryptography: Cryptography is a package which provides cryptographic recipes
+cryptography: and primitives to Python developers. Our goal is for it to be
+cryptography: your "cryptographic standard library". It includes both high
+cryptography: level recipes, and low level interfaces to common cryptographic
+cryptography: algorithms such as symmetric ciphers, message digests and key
+cryptography: derivation functions.
+cryptography: Python 2.6-2.7, Python 3.3+, and PyPy 2.6+ are supported.
+cryptography:
+cryptography: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+
