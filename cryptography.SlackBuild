@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: cryptography.SlackBuild,v 1.7 2017/06/01 11:36:00 gsotirov Exp $
+# $Id: cryptography.SlackBuild,v 1.8 2017/07/27 16:51:19 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=cryptography
-VERSION=1.9
+VERSION=2.0.2
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
