@@ -8,5 +8,5 @@ cryptography: algorithms such as symmetric ciphers, message digests and key
 cryptography: derivation functions.
 cryptography: Python 2.6-2.7, Python 3.3+, and PyPy 2.6+ are supported.
 cryptography:
-cryptography: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+cryptography: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
 
